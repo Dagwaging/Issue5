@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Issue5</string>
+    <string name="p2p_kit_not_installed">P2P Services are not installed</string>
+    <string name="p2p_kit_installed">P2P Services are installed</string>
+</resources>
